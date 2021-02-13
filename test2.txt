@@ -1,1 +1,6 @@
 aasda
+
+
+1 - git fetch upstream
+
+2 - $ git rebase upstream/main
